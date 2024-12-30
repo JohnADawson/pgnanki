@@ -50,7 +50,7 @@ In Anki
 `pgnanki`'s documentation is in its
 [docstrings](https://github.com/JohnADawson/pgnanki/blob/master/src/pgnanki.py).
 
-# Copyright Notice
+# Copyright and License
 
 Copyright (C) 2024 John Dawson
 
