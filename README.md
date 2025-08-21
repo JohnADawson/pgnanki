@@ -1,4 +1,5 @@
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 [![Built with Spacemacs](https://raw.githubusercontent.com/syl20bnr/spacemacs/develop/assets/spacemacs-badge.svg)](https://develop.spacemacs.org)
 
 # Instructions

@@ -128,3 +128,6 @@ docs/_build/
 
 # Spyder
 .spyproject/
+
+# uv
+/uv.lock
