@@ -55,8 +55,8 @@ def yield_lines(node, *, opposite=False):
     descendants of that color through that color's main variations and
     all the opposite color's variations.
     """
+    yield "#separator:tab"
     yield "#html:false"
     yield "#notetype:Chess 2.0"
-    yield "#separator:tab"
     for subnode in (traverse_trans if opposite else traverse_cis)(node):
         yield subnode.accept_subgame(ShortStringExporter(columns=None))

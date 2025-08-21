@@ -4,7 +4,7 @@ build-backend = "uv_build"
 
 [project]
 name = "pgnanki"
-version = "1.0.3"
+version = "1.0.4"
 description = "Making Anki notes of type Chess 2.0 for one color's positions in a PGN."
 readme = "README.md"
 license = {file = "LICENSE"}

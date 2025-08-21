@@ -31,9 +31,9 @@ with open("Fried-Liver-Attack.tsv", "x") as file:
 This example would write to a file named `Fried-Liver-Attack.tsv` the following.
 
 ```TSV
+#separator:tab
 #html:false
 #notetype:Chess 2.0
-#separator:tab
 [FEN "r4bkr/ppp3pp/2n1b3/3Qp3/8/8/PPPP1PPP/RNB1K2R w KQ - 1 10"] 10. Qxe6# *
 [FEN "r1b2bkr/ppp3pp/2n5/3qp3/8/5Q2/PPPP1PPP/RNB1K2R w KQ - 0 9"] 9. Qxd5+ Be6 10. Qxe6# *
 [FEN "r2q1bkr/ppp3pp/2n1b3/3Bp3/8/5Q2/PPPP1PPP/RNB1K2R w KQ - 1 9"] 9. Bxe6# *
