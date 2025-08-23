@@ -46,7 +46,7 @@ In Anki
 
 # Documentation
 
-`pgnanki`'s documentation is in its
+`pgnanki` is documented in its
 [docstrings](https://github.com/JohnADawson/pgnanki/blob/master/src/pgnanki/__init__.py).
 
 # Copyright and License
