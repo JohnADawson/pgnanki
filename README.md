@@ -5,8 +5,8 @@
 # Instructions
 
 Install the note type Chess 2.0
-[thus](https://github.com/TowelSniffer/Anki-Chess-2.0#getting-started). Run `pip
-install pgnanki`, and in Python run something like the following.
+[thus](https://github.com/TowelSniffer/Anki-Chess-2.0/blob/main/documentation/installation.md).
+Run `pip install pgnanki`, and in Python run something like the following.
 
 ```Python
 import io
