@@ -4,7 +4,7 @@ build-backend = "uv_build"
 
 [project]
 name = "pgnanki"
-version = "1.0.5"
+version = "1.0.6"
 description = "Making Anki notes of type Chess 2.0 for one color's positions in a PGN."
 readme = "README.md"
 license = {file = "LICENSE"}
@@ -19,4 +19,4 @@ dependencies = ["chess"]
 
 [project.urls]
 Homepage = "https://github.com/JohnADawson/pgnanki"
-Documentation = "https://github.com/JohnADawson/pgnanki/blob/master/src/pgnanki.py"
+Documentation = "https://github.com/JohnADawson/pgnanki/blob/master/src/pgnanki/__init__.py"
