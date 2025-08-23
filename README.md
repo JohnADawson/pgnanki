@@ -5,10 +5,8 @@
 # Instructions
 
 Install the note type Chess 2.0
-[thus](https://github.com/TowelSniffer/Anki-Chess-2.0#getting-started), and
-change its card's front and back templates to have `var flip = false;`
-[thus](https://youtu.be/NZOK1dZAvpI?t=106). Run `pip install pgnanki`, and in
-Python run something like the following.
+[thus](https://github.com/TowelSniffer/Anki-Chess-2.0#getting-started). Run `pip
+install pgnanki`, and in Python run something like the following.
 
 ```Python
 import io
